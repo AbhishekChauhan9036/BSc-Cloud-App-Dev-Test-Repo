@@ -18,6 +18,36 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 ### **Semester 1:**
 
 - Introduction to Computer Science
+- 1. Definition of Computer Science: Highlight problem-solving and innovation.
+
+2. Key Areas:
+
+- Algorithms and Data Structures
+
+- Programming Languages
+
+- Computer Architecture
+
+- Operating Systems
+
+- Theory of Computation
+
+- Artificial Intelligence and Machine Learning
+
+- Databases and Information Retrieval
+
+- Software Engineering
+
+- Computer Networks
+
+- Cybersecurity
+
+3. Applications: Maybe different industries or technologies, like healthcare informatics, autonomous vehicles, etc.
+
+4. Importance: Connect to digital transformation, data-driven decisions.
+
+5. Getting Started: Suggest online courses, books, projects.
+- 
 - Programming Fundamentals (Python)
 - Web Development Basics (HTML, CSS, JavaScript)
 - Mathematics for Computing
