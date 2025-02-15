@@ -64,7 +64,9 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - IT Ethics & Governance
 - Cloud Automation & Infrastructure as Code
 - Internship / Industry Collaboration
+- DevOps Engineer Training
 - Final Year Project
+- Ethical Hacking Basics
 
 ## 🏆 Career Opportunities
 
