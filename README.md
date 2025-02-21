@@ -36,7 +36,7 @@ The **B.Sc. Cloud and Application Development** program at **Marwadi University*
 - Advance web Development
 - Cloud Computing Fundamentals
 - Soft Skills & Personality Development 
-- Version Control (Git hub)
+- Version Control (Git/GitHub)
 
 ### **Semester 3:**
 
