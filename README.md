@@ -91,6 +91,7 @@ Graduates of this program can pursue careers in:
 - Cybersecurity Analyst
 - Blockchain Developer
 - Cloud Data Analyst
+- Software Enginnering
 - Data Language Enthusiast/Independent Code Developer
 
 ## 🔗 Get in Touch
